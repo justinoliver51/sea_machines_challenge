@@ -1,0 +1,3 @@
+/*
+	C++ application 2
+*/
